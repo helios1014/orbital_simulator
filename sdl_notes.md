@@ -10,3 +10,4 @@
 - https://prdeving.wordpress.com/2019/05/30/how-to-write-a-game-engine-in-pure-c-part-1-state-manager/
 - https://github.com/markmoxon/elite-a-source-code-bbc-micro/tree/main
 - https://www.hendrik-erz.de/post/bitwise-flags-are-beautiful-and-heres-why
+- https://adamsturge.github.io/Engine-Blog/mydoc_camera.html
