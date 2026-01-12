@@ -11,3 +11,5 @@
 - https://github.com/markmoxon/elite-a-source-code-bbc-micro/tree/main
 - https://www.hendrik-erz.de/post/bitwise-flags-are-beautiful-and-heres-why
 - https://adamsturge.github.io/Engine-Blog/mydoc_camera.html
+- https://stackoverflow.com/questions/25659623/how-does-a-projection-matrix-work
+- https://www.scratchapixel.com/lessons/3d-basic-rendering/perspective-and-orthographic-projection-matrix/projection-matrices-what-you-need-to-know-first.html
