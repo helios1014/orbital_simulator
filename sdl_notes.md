@@ -16,3 +16,8 @@
 - https://wiki.alioth.net/index.php/Classic_Elite
 - https://6502disassembly.com/a2-elite/meshes.html
 - https://www.reddit.com/r/proceduralgeneration/comments/15s5b3u/procedural_continental_terrain_generation/
+- https://sos.noaa.gov/catalog/datasets/paleomap-paleoatlas-0-750-million-years-ago/
+- https://www.reddit.com/r/worldbuilding/comments/gv71yp/an_indepth_guide_to_using_gplates_to_simulate/
+- https://www.earthbyte.org/paleomap-paleoatlas-for-gplates/
+- https://github.com/GPlates/gplately?tab=readme-ov-file
+- https://www.reddit.com/r/worldbuilding/comments/gv71yp/an_indepth_guide_to_using_gplates_to_simulate/
