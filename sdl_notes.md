@@ -15,3 +15,4 @@
 - https://www.scratchapixel.com/lessons/3d-basic-rendering/perspective-and-orthographic-projection-matrix/projection-matrices-what-you-need-to-know-first.html
 - https://wiki.alioth.net/index.php/Classic_Elite
 - https://6502disassembly.com/a2-elite/meshes.html
+- https://www.reddit.com/r/proceduralgeneration/comments/15s5b3u/procedural_continental_terrain_generation/
